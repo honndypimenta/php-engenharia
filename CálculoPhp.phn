@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>Título maneiro</title>
+</head>
+<body>
+  <p>Texto</p>
+  <div>
+    <?php
+      $minha_variavel = 15; // Neste momento $minha_variavel é um int
+      $minha_variavel = 'nada'; // Neste momento, $minha_variavel é um string
+    ?>
+  </div>
+</body>
+</html>
